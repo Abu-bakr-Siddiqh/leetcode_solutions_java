@@ -7,7 +7,7 @@
 3. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679918/java-code-with-time-and-space-complexity/)
 4. [Problem 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/3679948/java-code-with-time-and-space-complexity/)
 5. [Problem 1365. How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/solutions/3675354/java-code-time-and-space-complexity/)
-6. [Problem 1389. Create Target Array in the Given Order]
+6. [Problem 1389. Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/solutions/3679963/java-code-with-time-and-space-complexity/)
 7. [Problem 1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/solutions/3675330/java-code-with-time-and-space-complexity/)
 8. [Problem 1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/solutions/3675319/java-code-with-time-and-space-complexity/)
 9. [problem 1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/solutions/3673660/java-code-time-and-space-complexity/)
