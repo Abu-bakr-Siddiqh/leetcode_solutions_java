@@ -22,3 +22,8 @@
 18. [Problem 1832. Check if the Sentence Is Pangram]
 19. [Problem 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/3673491/java-code-with-time-and-space-complexity-problem-1920/)
 20. [Problem 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/3673643/java-code-with-time-and-space-complexity/)
+
+
+### Strings
+
+1. [Problem 1528. Shuffle String]
