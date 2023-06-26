@@ -2,7 +2,7 @@
 
 ### Arrays
 
-1. [Problem 1. Two Sum]
+1. [Problem 1. Two Sum](https://leetcode.com/problems/two-sum/solutions/3683744/java-code-with-time-and-space-complexity/)
 2. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679889/java-code-with-time-and-space-complexity/)
 3. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679918/java-code-with-time-and-space-complexity/)
 4. [Problem 867. Transpose Matrix](https://leetcode.com/problems/transpose-matrix/solutions/3679948/java-code-with-time-and-space-complexity/)
