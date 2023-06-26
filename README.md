@@ -28,3 +28,4 @@
 
 1. [Problem 709. To Lower Case]
 2. [Problem 1528. Shuffle String]
+3. [Problem 1662. Check If Two String Arrays are Equivalent]
