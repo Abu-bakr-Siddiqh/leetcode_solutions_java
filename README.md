@@ -18,7 +18,7 @@
 14. [Problem 1572. Matrix Diagonal Sum](https://leetcode.com/problems/matrix-diagonal-sum/solutions/3683782/java-code-with-time-and-space-complexity/)
 15. [Problem 1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/solutions/3673695/java-code-with-time-and-space-complexity/)
 16. [Problem 1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/solutions/3683797/java-code-with-time-and-space-complexity/)
-17. [Problem 1773. Count Items Matching a Rule]
+17. [Problem 1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/solutions/3687399/java-code-with-time-and-space-complexity/)
 18. [Problem 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/3687383/java-code-with-time-and-space-complexity/)
 19. [Problem 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/3673491/java-code-with-time-and-space-complexity-problem-1920/)
 20. [Problem 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/3673643/java-code-with-time-and-space-complexity/)
