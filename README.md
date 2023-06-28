@@ -26,7 +26,7 @@
 
 ### Strings
 
-1. [Problem 20. Valid Parentheses]
+1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691190/java-code-with-time-and-space-complexity/)
 2. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687405/java-code-with-time-and-space-complexity/)
 3. [Problem 657. Robot Return to Origin]
 4. [Problem 709. To Lower Case]
