@@ -37,3 +37,9 @@
 9. [Problem 1678. Goal Parser Interpretation]
 10. [Problem 1768. Merge Strings Alternately]
 
+
+### Searching
+
+1. [Problem 704. Binary Search]
+
+
