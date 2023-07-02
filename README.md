@@ -45,6 +45,7 @@
 2. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3708751/java-code-with-time-and-space-complexity/)
 3. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
 4. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
+5. [Problem 744. Find Smallest Letter Greater Than Target]
 
 
 ### Stacks
