@@ -42,10 +42,11 @@
 ### Binary Search
 
 1. [Problem 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3705158/java-code-with-time-and-space-complexity/)
-2. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3708751/java-code-with-time-and-space-complexity/)
-3. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
-4. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
-5. [Problem 744. Find Smallest Letter Greater Than Target]
+2. [problem 35. Search Insert Position]
+3. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3708751/java-code-with-time-and-space-complexity/)
+4. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
+5. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
+6. [Problem 744. Find Smallest Letter Greater Than Target]
 
 
 ### Stacks
