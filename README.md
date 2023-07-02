@@ -52,8 +52,8 @@
 
 ### Math
 
-1. [Problem 7. Reverse Integer]
-2. [Problem 9. Palindrome Number]
+1. [Problem 7. Reverse Integer](https://leetcode.com/problems/reverse-integer/solutions/3706206/java-code-with-time-and-space-complexity/)
+2. [Problem 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3706215/java-code-with-time-and-space-complexity/)
 
 
 
