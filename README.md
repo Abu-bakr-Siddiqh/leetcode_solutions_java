@@ -29,7 +29,7 @@
 ### Strings
 
 1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691190/java-code-with-time-and-space-complexity/)
-2. [Problem 58. Length of Last Word]
+2. [Problem 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/3710835/java-code-with-time-and-space-complexity/)
 3. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687405/java-code-with-time-and-space-complexity/)
 4. [Problem 657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/solutions/3691192/java-code-with-time-and-space-complexity/)
 5. [Problem 709. To Lower Case](https://leetcode.com/problems/to-lower-case/solutions/3691198/java-code-with-time-and-space-complexity/)
@@ -44,11 +44,11 @@
 ### Binary Search
 
 1. [Problem 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3705158/java-code-with-time-and-space-complexity/)
-2. [problem 35. Search Insert Position]
+2. [problem 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/solutions/3710851/java-code-with-time-and-space-complexity/)
 3. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3708751/java-code-with-time-and-space-complexity/)
 4. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
 5. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
-6. [Problem 744. Find Smallest Letter Greater Than Target]
+6. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710883/java-code-with-time-and-space-complexity/)
 
 
 ### Stacks
