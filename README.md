@@ -64,7 +64,8 @@
 
 ### Bit Manipulation
 
-1. [Problem 201. Bitwise AND of Numbers Range]
+1. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679918/java-code-with-time-and-space-complexity/)
+2. [Problem 201. Bitwise AND of Numbers Range]
 
 
 
