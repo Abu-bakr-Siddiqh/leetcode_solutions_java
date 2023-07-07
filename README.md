@@ -65,6 +65,7 @@
 
 1. [Problem 7. Reverse Integer](https://leetcode.com/problems/reverse-integer/solutions/3706206/java-code-with-time-and-space-complexity/)
 2. [Problem 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3706215/java-code-with-time-and-space-complexity/)
+3. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730776/java-code-with-time-and-space-complexity/)
 
 ### Bit Manipulation
 
