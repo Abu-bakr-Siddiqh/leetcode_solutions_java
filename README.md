@@ -67,14 +67,19 @@
 
 1. [Problem 7. Reverse Integer](https://leetcode.com/problems/reverse-integer/solutions/3706206/java-code-with-time-and-space-complexity/)
 2. [Problem 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3706215/java-code-with-time-and-space-complexity/)
-3. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730877/java-code-with-time-and-space-complexity/)
-4. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730776/java-code-with-time-and-space-complexity/)
+3. [Problem 50. Pow(x, n)](https://leetcode.com/problems/powx-n/solutions/3734192/java-code-with-time-and-space-complexity/)
+4. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730877/java-code-with-time-and-space-complexity/)
+5. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730776/java-code-with-time-and-space-complexity/)
 
 ### Bit Manipulation
 
 1. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679918/java-code-with-time-and-space-complexity/)
 2. [Problem 201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/3715660/java-code-with-time-and-space-complexity/)
 
+
+### Recursion
+
+1. [Problem 50. Pow(x, n)]
 
 
 
