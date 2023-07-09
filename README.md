@@ -51,7 +51,7 @@
 3. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3708751/java-code-with-time-and-space-complexity/)
 4. [Problem 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/solutions/3716229/java-code-with-time-and-space-complexity/)
 5. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730860/java-code-with-time-and-space-complexity/)
-6. [Problem 326. Power of Three]
+6. [Problem 326. Power of Three](https://leetcode.com/problems/power-of-three/solutions/3739470/java-code-with-time-and-space-complexity/)
 7. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730799/java-code-with-time-and-space-complexity/)
 8. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
 9. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
@@ -70,7 +70,7 @@
 2. [Problem 9. Palindrome Number](https://leetcode.com/problems/palindrome-number/solutions/3706215/java-code-with-time-and-space-complexity/)
 3. [Problem 50. Pow(x, n)](https://leetcode.com/problems/powx-n/solutions/3734192/java-code-with-time-and-space-complexity/)
 4. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730877/java-code-with-time-and-space-complexity/)
-5. [Problem 326. Power of Three]
+5. [Problem 326. Power of Three](https://leetcode.com/problems/power-of-three/solutions/3739466/java-code-with-time-and-space-complexity/)
 6. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730776/java-code-with-time-and-space-complexity/)
 
 ### Bit Manipulation
