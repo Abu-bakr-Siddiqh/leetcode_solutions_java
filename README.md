@@ -27,7 +27,7 @@
 23. [Problem 1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/solutions/3687383/java-code-with-time-and-space-complexity/)
 24. [Problem 1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/solutions/3673491/java-code-with-time-and-space-complexity-problem-1920/)
 25. [Problem 1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/solutions/3673643/java-code-with-time-and-space-complexity/)
-26. [Problem 2574. Left and Right Sum Differences]
+26. [Problem 2574. Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/solutions/3745657/java-code-with-time-and-space-complexity/)
 
 
 ### Strings
