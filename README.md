@@ -79,6 +79,7 @@
 
 1. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679918/java-code-with-time-and-space-complexity/)
 2. [Problem 201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/solutions/3715660/java-code-with-time-and-space-complexity/)
+3. [Problem 1486. XOR Operation in an Array]
 
 
 ### Recursion
