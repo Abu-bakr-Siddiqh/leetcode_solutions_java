@@ -73,7 +73,7 @@
 4. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730877/java-code-with-time-and-space-complexity/)
 5. [Problem 326. Power of Three](https://leetcode.com/problems/power-of-three/solutions/3739466/java-code-with-time-and-space-complexity/)
 6. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730776/java-code-with-time-and-space-complexity/)
-7. [Problem 1837. Sum of Digits in Base K]
+7. [Problem 1837. Sum of Digits in Base K](https://leetcode.com/problems/sum-of-digits-in-base-k/solutions/3764895/java-code-with-time-and-space-complexity/)
 
 ### Bit Manipulation
 
