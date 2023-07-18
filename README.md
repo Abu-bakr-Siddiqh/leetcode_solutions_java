@@ -43,6 +43,7 @@
 9. [Problem 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/3698708/java-code-with-time-and-space-complexity/)
 10. [Problem 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/solutions/3698724/java-code-with-time-and-space-complexity/)
 11. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698734/java-code-with-time-and-space-complexity/)
+12. [Problem 2000. Reverse Prefix of Word]
 
 
 ### Binary Search
