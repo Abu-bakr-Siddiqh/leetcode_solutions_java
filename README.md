@@ -45,7 +45,7 @@
 11. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698734/java-code-with-time-and-space-complexity/)
 12. [Problem 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/solutions/3801292/java-code-with-time-and-space-complexity/)
 13. [Problem 2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/solutions/3783391/java-code-with-time-and-space-complexity/)
-14. [Problem 2710. Remove Trailing Zeros From a String]
+14. [Problem 2710. Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3801491/java-code-with-time-and-space-complexity/)
 
 ### Binary Search
 
