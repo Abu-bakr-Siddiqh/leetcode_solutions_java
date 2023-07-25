@@ -9,7 +9,7 @@
 5. [Problem 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/solutions/3705098/java-code-with-time-and-space-complexity/)
 6. [Problem 169. Majority Element](https://leetcode.com/problems/majority-element/solutions/3715670/java-code-with-time-and-space-complexity/)
 7. [Problem 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/3687365/java-code-with-time-and-space-complexity/)
-8. [Problem 283. Move Zeroes]
+8. [Problem 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/post-solution/?submissionId=1003661603)
 9. [Problem 287. Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/solutions/3710829/java-code-with-time-and-space-complexity/)
 10. [Problem 344. Reverse String](https://leetcode.com/problems/reverse-string/solutions/3727992/java-code-with-time-and-space-complexity/)
 11. [Problem 832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/solutions/3721266/java-code-with-time-and-space-complexity/)
