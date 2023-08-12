@@ -58,9 +58,10 @@
 6. [Problem 326. Power of Three](https://leetcode.com/problems/power-of-three/solutions/3739470/java-code-with-time-and-space-complexity/)
 7. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730799/java-code-with-time-and-space-complexity/)
 8. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
-9. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
-10. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710883/java-code-with-time-and-space-complexity/)
-11. [Problem 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/3716240/java-code-with-time-and-space-complexity/)
+9. [Problem 374. Guess Number Higher or Lower]
+10. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
+11. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710883/java-code-with-time-and-space-complexity/)
+12. [Problem 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/3716240/java-code-with-time-and-space-complexity/)
 
 
 ### Stacks
