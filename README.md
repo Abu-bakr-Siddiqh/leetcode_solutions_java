@@ -67,6 +67,7 @@
 ### Stacks
 
 1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691190/java-code-with-time-and-space-complexity/)
+2. [Problem 921. Minimum Add to Make Parentheses Valid]
 
 
 ### Math
