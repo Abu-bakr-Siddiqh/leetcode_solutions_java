@@ -34,19 +34,20 @@
 ### Strings
 
 1. [Problem 20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/solutions/3691190/java-code-with-time-and-space-complexity/)
-2. [Problem 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/3710835/java-code-with-time-and-space-complexity/)
-3. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687405/java-code-with-time-and-space-complexity/)
-4. [Problem 657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/solutions/3691192/java-code-with-time-and-space-complexity/)
-5. [Problem 709. To Lower Case](https://leetcode.com/problems/to-lower-case/solutions/3691198/java-code-with-time-and-space-complexity/)
-6. [Problem 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/solutions/3691211/java-code-with-time-and-space-complexity/)
-7. [Problem 1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/solutions/3691220/java-code-with-time-and-space-complexity/)
-8. [Problem 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/solutions/3698700/java-code-with-time-and-space-complexity/)
-9. [Problem 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/3698708/java-code-with-time-and-space-complexity/)
-10. [Problem 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/solutions/3698724/java-code-with-time-and-space-complexity/)
-11. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698734/java-code-with-time-and-space-complexity/)
-12. [Problem 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/solutions/3801292/java-code-with-time-and-space-complexity/)
-13. [Problem 2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/solutions/3783391/java-code-with-time-and-space-complexity/)
-14. [Problem 2710. Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3801491/java-code-with-time-and-space-complexity/)
+2. [Problem 43. Multiply Strings]
+3. [Problem 58. Length of Last Word](https://leetcode.com/problems/length-of-last-word/solutions/3710835/java-code-with-time-and-space-complexity/)
+4. [Problem 125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/solutions/3687405/java-code-with-time-and-space-complexity/)
+5. [Problem 657. Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/solutions/3691192/java-code-with-time-and-space-complexity/)
+6. [Problem 709. To Lower Case](https://leetcode.com/problems/to-lower-case/solutions/3691198/java-code-with-time-and-space-complexity/)
+7. [Problem 1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/solutions/3691211/java-code-with-time-and-space-complexity/)
+8. [Problem 1309. Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/solutions/3691220/java-code-with-time-and-space-complexity/)
+9. [Problem 1528. Shuffle String](https://leetcode.com/problems/shuffle-string/solutions/3698700/java-code-with-time-and-space-complexity/)
+10. [Problem 1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/solutions/3698708/java-code-with-time-and-space-complexity/)
+11. [Problem 1678. Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/solutions/3698724/java-code-with-time-and-space-complexity/)
+12. [Problem 1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/solutions/3698734/java-code-with-time-and-space-complexity/)
+13. [Problem 1844. Replace All Digits with Characters](https://leetcode.com/problems/replace-all-digits-with-characters/solutions/3801292/java-code-with-time-and-space-complexity/)
+14. [Problem 2000. Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/solutions/3783391/java-code-with-time-and-space-complexity/)
+15. [Problem 2710. Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/solutions/3801491/java-code-with-time-and-space-complexity/)
 
 ### Binary Search
 
