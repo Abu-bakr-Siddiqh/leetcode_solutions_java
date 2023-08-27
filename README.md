@@ -7,7 +7,7 @@
 3. [Problem 66. Plus One](https://leetcode.com/problems/plus-one/solutions/3679889/java-code-with-time-and-space-complexity/)
 4. [Problem 136. Single Number](https://leetcode.com/problems/single-number/solutions/3679918/java-code-with-time-and-space-complexity/)
 5. [Problem 152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/solutions/3705098/java-code-with-time-and-space-complexity/)
-6. [Problem 167. Two Sum II - Input Array Is Sorted]
+6. [Problem 167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/solutions/3965416/java-code-with-time-and-space-complexity/)
 7. [Problem 169. Majority Element](https://leetcode.com/problems/majority-element/solutions/3715670/java-code-with-time-and-space-complexity/)
 8. [Problem 238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/solutions/3687365/java-code-with-time-and-space-complexity/)
 9. [Problem 283. Move Zeroes](https://leetcode.com/problems/move-zeroes/post-solution/?submissionId=1003661603)
