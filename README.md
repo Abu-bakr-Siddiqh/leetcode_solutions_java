@@ -57,15 +57,16 @@
 1. [Problem 34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/solutions/3705158/java-code-with-time-and-space-complexity/)
 2. [problem 35. Search Insert Position](https://leetcode.com/problems/search-insert-position/solutions/3710851/java-code-with-time-and-space-complexity/)
 3. [Problem 69. Sqrt(x)](https://leetcode.com/problems/sqrtx/solutions/3708751/java-code-with-time-and-space-complexity/)
-4. [Problem 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/solutions/3716229/java-code-with-time-and-space-complexity/)
-5. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730860/java-code-with-time-and-space-complexity/)
-6. [Problem 326. Power of Three](https://leetcode.com/problems/power-of-three/solutions/3739470/java-code-with-time-and-space-complexity/)
-7. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730799/java-code-with-time-and-space-complexity/)
-8. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
-9. [Problem 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/3897972/java-code-with-time-and-complexity/)
-10. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
-11. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710883/java-code-with-time-and-space-complexity/)
-12. [Problem 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/3716240/java-code-with-time-and-space-complexity/)
+4. [Problem 74. Search a 2D Matrix]
+5. [Problem 162. Find Peak Element](https://leetcode.com/problems/find-peak-element/solutions/3716229/java-code-with-time-and-space-complexity/)
+6. [Problem 231. Power of Two](https://leetcode.com/problems/power-of-two/solutions/3730860/java-code-with-time-and-space-complexity/)
+7. [Problem 326. Power of Three](https://leetcode.com/problems/power-of-three/solutions/3739470/java-code-with-time-and-space-complexity/)
+8. [Problem 342. Power of Four](https://leetcode.com/problems/power-of-four/solutions/3730799/java-code-with-time-and-space-complexity/)
+9. [Problem 367. Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/solutions/3707995/java-code-with-time-and-space-complexity/)
+10. [Problem 374. Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/solutions/3897972/java-code-with-time-and-complexity/)
+11. [Problem 704. Binary Search](https://leetcode.com/problems/binary-search/solutions/3705168/java-code-with-time-and-space-complexity/)
+12. [Problem 744. Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/solutions/3710883/java-code-with-time-and-space-complexity/)
+13. [Problem 852. Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/solutions/3716240/java-code-with-time-and-space-complexity/)
 
 
 ### Stacks
